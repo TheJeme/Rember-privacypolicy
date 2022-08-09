@@ -1,5 +1,5 @@
 # Rember-privacypolicy
-Rember is an app to
+Rember is an app to remind and keep track of your stuff location.
 
 I have programmed this app to NOT collect any personally identifiable information. This app doesn't send any data anywhere. It saves all the data on your local device.
 
